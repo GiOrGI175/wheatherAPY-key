@@ -201,6 +201,7 @@ body main header .header form .imgbox {
 }
 body main .wheather {
   display: flex;
+  align-items: center;
 }
 body main .wheather .celsius {
   font-family: "Roboto", sans-serif;
